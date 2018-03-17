@@ -1,0 +1,2 @@
+webpackJsonp([28],{"28UJ":function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var c={render:function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[t("Button",{on:{click:function(e){n.instance()}}},[n._v("confirm1")])],1)},staticRenderFns:[]},i=t("VU/8")({methods:{instance:function(){this.$Modal.confirm({title:"批量放行",okText:"整包裹放行",content:"<p>订单所在包裹为合并包裹，请选择整包裹放行或取消操作</p>"})}}},c,!1,null,null,null);e.default=i.exports}});
+//# sourceMappingURL=28.90643de0041af358c07d.js.map
